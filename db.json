@@ -1,142 +1,139 @@
 {
-    "movies": [
-        {
-            "id": 1,
-            "title": "Mad Max: Fury Road",
-            "synopsis": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
-            "genre": "Action - Adventure",
-            "language": [
-                "English",
-                "Russian"
-            ],
-            "subtitled": "Yes",
-            "director": "George Miller",
-            "imdb": "https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_3",
-            "rating": "8.1"
-        },
-        {
-            "id": 2,
-            "title": "Avengers: Endgame",
-            "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
-            "genre": "Action - Adventure",
-            "language": [
-                "English"
-            ],
-            "subtitled": "Yes",
-            "director": "Anthony Russo - Joe Russo",
-            "imdb": "https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0",
-            "rating": "8.4"
-        },
-        {
-            "id": 3,
-            "title": "The Sixth Sense",
-            "synopsis": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
-            "genre": "Drama - Mystery",
-            "language": [
-                "English",
-                "Spanish"
-            ],
-            "subtitled": "Yes",
-            "director": "M. Night Shyamalan",
-            "imdb": "https://www.imdb.com/title/tt0167404/?ref_=nv_sr_srsg_0",
-            "rating": "8.1"
-        },
-        {
-            "id": 4,
-            "title": "Jurassic Park",
-            "synopsis": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
-            "genre": "Action - Adventure - SciFi",
-            "language": [
-                "English",
-                "Spanish"
-            ],
-            "subtitled": "Yes",
-            "director": "Steven Spielberg",
-            "imdb": "https://www.imdb.com/title/tt0107290/?ref_=tt_sims_tt_i_4",
-            "rating": "8.1"
-        },
-        {
-            "id": 5,
-            "title": "Avengers: Infinity War",
-            "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
-            "genre": "Action - Adventure - SciFi",
-            "language": [
-                "English"
-            ],
-            "subtitled": "Yes",
-            "director": "Anthony Russo - Joe Russo",
-            "imdb": "https://www.imdb.com/title/tt4154756/?ref_=hm_tpks_tt_t_5_pd_tp1_cp",
-            "rating": "8.4"
-        },
-        {
-            "id": 6,
-            "title": "Thor: Ragnarok",
-            "synopsis": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
-            "genre": "Action - Adventure - Comedy",
-            "language": [
-                "English"
-            ],
-            "subtitled": "Yes",
-            "director": "Taika Waititi",
-            "imdb": "https://www.imdb.com/title/tt3501632/?ref_=hm_tpks_tt_t_11_pd_tp1_cp",
-            "rating": "7.9"
-        },
-        {
-            "id": 7,
-            "title": "Die Hard",
-            "synopsis": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
-            "genre": "Action - Thriller",
-            "language": [
-                "English",
-                "German",
-                "Italian",
-                "Japanese"
-            ],
-            "subtitled": "Yes",
-            "director": "John McTiernan",
-            "imdb": "https://www.imdb.com/title/tt0095016/?ref_=hm_tpks_tt_t_17_pd_tp1_cp",
-            "rating": "8.2"
-        },
-        {
-            "id": 8,
-            "title": "Alien",
-            "synopsis": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
-            "genre": "Horror - SciFi",
-            "language": [
-                "English"
-            ],
-            "subtitled": "Yes",
-            "director": "Ridley Scott",
-            "imdb": "https://www.imdb.com/title/tt0078748/?ref_=hm_tpks_tt_t_20_pd_tp1_cp",
-            "rating": "8.4"
-        },
-        {
-            "id": 9,
-            "title": "The Lord of the Rings: The Fellowship of the Ring",
-            "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-            "genre": "Action - Adventure - Drama",
-            "language": [
-                "English",
-                "Sindarin"
-            ],
-            "subtitled": "Yes",
-            "director": "Peter Jackson",
-            "imdb": "https://www.imdb.com/title/tt0120737/?ref_=hm_tpks_tt_t_27_pd_tp1_cp",
-            "rating": "8.8"
-        },
-        {
-            "id": 10,
-            "title": "Signs",
-            "synopsis": "A widowed former priest living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
-            "genre": "Drama - Mystery - SciFi",
-            "language": [
-                "English",
-                "Portuguese"
-            ],
-            "subtitled": "Yes",
-            "director": "M. Night Shyamalan",
-            "imdb": "https://www.imdb.com/title/tt0286106/?ref_=hm_tpks_tt_t_29_pd_tp1_cp",
-            "rating": "6.7"
-        }
-    ]
+  "movies": [
+    {
+      "id": 2,
+      "title": "Avengers: Endgame",
+      "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "genre": "Action - Adventure",
+      "language": [
+        "English"
+      ],
+      "subtitled": "Yes",
+      "director": "Anthony Russo - Joe Russo",
+      "imdb": "https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0",
+      "rating": "8.4"
+    },
+    {
+      "id": 3,
+      "title": "The Sixth Sense",
+      "synopsis": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+      "genre": "Drama - Mystery",
+      "language": [
+        "English",
+        "Spanish"
+      ],
+      "subtitled": "Yes",
+      "director": "M. Night Shyamalan",
+      "imdb": "https://www.imdb.com/title/tt0167404/?ref_=nv_sr_srsg_0",
+      "rating": "8.1"
+    },
+    {
+      "id": 4,
+      "title": "Jurassic Park",
+      "synopsis": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "genre": "Action - Adventure - SciFi",
+      "language": [
+        "English",
+        "Spanish"
+      ],
+      "subtitled": "Yes",
+      "director": "Steven Spielberg",
+      "imdb": "https://www.imdb.com/title/tt0107290/?ref_=tt_sims_tt_i_4",
+      "rating": "8.1"
+    },
+    {
+      "id": 5,
+      "title": "Avengers: Infinity War",
+      "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "genre": "Action - Adventure - SciFi",
+      "language": [
+        "English"
+      ],
+      "subtitled": "Yes",
+      "director": "Anthony Russo - Joe Russo",
+      "imdb": "https://www.imdb.com/title/tt4154756/?ref_=hm_tpks_tt_t_5_pd_tp1_cp",
+      "rating": "8.4"
+    },
+    {
+      "id": 6,
+      "title": "Thor: Ragnarok",
+      "synopsis": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "genre": "Action - Adventure - Comedy",
+      "language": [
+        "English"
+      ],
+      "subtitled": "Yes",
+      "director": "Taika Waititi",
+      "imdb": "https://www.imdb.com/title/tt3501632/?ref_=hm_tpks_tt_t_11_pd_tp1_cp",
+      "rating": "7.9"
+    },
+    {
+      "id": 7,
+      "title": "Die Hard",
+      "synopsis": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "genre": "Action - Thriller",
+      "language": [
+        "English",
+        "German",
+        "Italian",
+        "Japanese"
+      ],
+      "subtitled": "Yes",
+      "director": "John McTiernan",
+      "imdb": "https://www.imdb.com/title/tt0095016/?ref_=hm_tpks_tt_t_17_pd_tp1_cp",
+      "rating": "8.2"
+    },
+    {
+      "id": 8,
+      "title": "Alien",
+      "synopsis": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+      "genre": "Horror - SciFi",
+      "language": [
+        "English"
+      ],
+      "subtitled": "Yes",
+      "director": "Ridley Scott",
+      "imdb": "https://www.imdb.com/title/tt0078748/?ref_=hm_tpks_tt_t_20_pd_tp1_cp",
+      "rating": "8.4"
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "genre": "Action - Adventure - Drama",
+      "language": [
+        "English",
+        "Sindarin"
+      ],
+      "subtitled": "Yes",
+      "director": "Peter Jackson",
+      "imdb": "https://www.imdb.com/title/tt0120737/?ref_=hm_tpks_tt_t_27_pd_tp1_cp",
+      "rating": "8.8"
+    },
+    {
+      "id": 10,
+      "title": "Signs",
+      "synopsis": "A widowed former priest living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
+      "genre": "Drama - Mystery - SciFi",
+      "language": [
+        "English",
+        "Portuguese"
+      ],
+      "subtitled": "Yes",
+      "director": "M. Night Shyamalan",
+      "imdb": "https://www.imdb.com/title/tt0286106/?ref_=hm_tpks_tt_t_29_pd_tp1_cp",
+      "rating": "6.7"
+    },
+    {
+      "title": "The Lord of The Rings",
+      "synopsis": "Frodo",
+      "genre": "Adventure",
+      "language": "English",
+      "subtitled": "Yes",
+      "director": "PeterJackson",
+      "imdb": "www.imdb.com.br",
+      "rating": "10",
+      "id": 11
+    }
+  ]
 }

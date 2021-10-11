@@ -1,12 +1,15 @@
+import { Link } from "react-router-dom"
 import "./index.scss"
 
 export const Header = () => {
     return (
-        <header className="x_header">
+
+        <div className="x_header">
             <nav className="x_navbar">
-                <a href="#">List Movies</a>
-                <a href="#">Add New Movie</a>
-            </nav>  
-        </header>
+                <Link to="/">List Movies</Link>
+                <Link to="/add-movie">Add New Movie</Link>
+            </nav>
+        </div>
+
     )
 }

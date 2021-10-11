@@ -1,0 +1,20 @@
+.x_addMovie {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .x_formData {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .x_sendButton {
+        margin-top: 15px;
+        width: 100%;
+        height: auto;
+        background: #7d7d7d;
+        font-size: 25px;
+    }
+}
